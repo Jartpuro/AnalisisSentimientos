@@ -1,0 +1,58 @@
+# Cambiar al directorio de trabajo
+cd "C:\Users\jartp\Documents\Audios Maestría\Audios_Diego_Part1_2\Grabaciones-2\2023-06-10a\temp"
+
+# Crear una lista para almacenar la información
+$audioInfo = @()
+
+# Agregar encabezados al principio del archivo
+$audioInfo += "Nombre del Archivo, Duración"
+
+# Obtener la información de los archivos
+Get-ChildItem -Path . -Filter *.wav | ForEach-Object {
+    $filePath = $_.FullName
+    $fileName = $_.Name
+    
+    # Crear un objeto Shell para obtener la duración
+    $shell = New-Object -ComObject Shell.Application
+    $folder = $shell.Namespace((Get-Item $filePath).DirectoryName)
+    $fileItem = $folder.ParseName((Get-Item $filePath).Name)
+    
+    # Obtener la duración y el nombre del archivo
+    $duration = $folder.GetDetailsOf($fileItem, 27)
+    
+    # Verificar si la duración y el nombre se obtuvieron correctamente
+    if ($duration -ne "") {
+        Write-Host "Nombre del archivo: $fileName, Duración: $duration"
+        
+        # Separar la duración en horas, minutos y segundos
+        $horas, $minutos, $segundos = $duration -split ":"
+        
+        # Formatear la duración para que siempre tenga horas, minutos y segundos
+        $durationFormatted = "{0:00}:{1:00}:{2:00}" -f $horas, $minutos, $segundos
+        
+        # Crear una línea de texto con el nombre y la duración
+        $infoLine = "$fileName,$durationFormatted"
+        
+        # Agregar la línea a la lista
+        $audioInfo += $infoLine
+    } else {
+        Write-Host "No se pudo obtener la duración para el archivo: $fileName"
+    }
+}
+
+# Verificar si se encontraron archivos y se obtuvo información
+if ($audioInfo.Count -gt 1) { # Si hay más de un elemento, hay datos en la lista, por eso el 1
+    # Escribir la información en un archivo de texto
+    $audioInfo | Out-File -FilePath .\ArchivosAudio.txt -Encoding utf8
+
+    # Notificar que se ha creado el archivo
+    Write-Host "Se ha creado el archivo 'ArchivosAudio.txt' con la información de los archivos de audio."
+    
+    # Abrir el archivo en Notepad
+    notepad .\ArchivosAudio.txt
+} else {
+    Write-Host "No se encontraron archivos de audio en el directorio."
+}
+
+
+cls
