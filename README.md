@@ -1,0 +1,1 @@
+Este repositorio contiene los scripts y recursos utilizados en el desarrollo de mi tesis, enfocada en la clasificación de sentimientos en interacciones telefónicas comerciales. Está organizado para facilitar el acceso y comprensión de los códigos relacionados con la extracción, procesamiento, análisis y modelado de datos, así como los reportes genera
