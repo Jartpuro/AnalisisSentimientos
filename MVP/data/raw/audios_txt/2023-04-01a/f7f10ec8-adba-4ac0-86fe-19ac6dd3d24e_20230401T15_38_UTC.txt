@@ -1,0 +1,33 @@
+﻿Speaker 0: Hola, muy buenos días.  
+
+Speaker 1: Buenos días.  
+
+Speaker 0: Hablo con Juan José.  
+
+Speaker 1: ¿Qué pasó?  
+
+Speaker 0: Hablas con Natalia de la Universidad Javeriana de Cali.  ¿Cómo estás?  
+
+Speaker 1: Bien.  
+
+Speaker 0: Bueno, Juan José, el motivo de mi llamada es porque quería preguntarte si pudiste participar en las pasantías.  
+
+Speaker 1: Sí, sí pude.  
+
+Speaker 0: Ok.  ¿Y te quedó alguna duda o inquietud acerca de los programas de artes visuales e ingeniería electrónica?  
+
+Speaker 1: No, señora.  
+
+Speaker 0: Ok, ¿y ya te decidiste por algún programa?  
+
+Speaker 1: No, señora.  
+
+Speaker 0: Ok, ¿te gustaría aclarar alguna duda o inquietud para poder así ayudarte a elegir algún programa?  
+
+Speaker 1: No, señora.  
+
+Speaker 0: Bueno, ¿deseas que me contacte nuevamente para validar tu interés o prefieres contactarnos?  
+
+Speaker 1: Prefiero la próxima vez contactarlos.  
+
+Speaker 0: Dale, Juan José.  Entonces quedamos muy atentos.  Gracias por atender mi llamada.  Que estén muy bien.  Hasta luego.  

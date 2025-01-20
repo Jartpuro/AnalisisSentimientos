@@ -1,0 +1,17 @@
+﻿Speaker 1: Buenos días, ¿con quién hablo?  
+
+Speaker 0: Bien, hablo con Luis Carlos de la Universidad Javeriana de Cali.  ¿Hablo con la señorita María?  
+
+Speaker 1: Sí, sí, señor.  
+
+Speaker 0: El motivo de esta llamada es porque tú estás interesada en un diploma de neurociencia estructural y funcional.  Ya te habíamos enviado una información, quería saber qué decisión tomaste.  
+
+Speaker 1: No, en este momento no podría realizar el diploma, ya que pues no sé un curso de inglés.  
+
+Speaker 0: Ya sabes que, disculpa, se te escuchó un poco entrecortado.  
+
+Speaker 1: Que no, en este momento no puedo realizar el diplomado, ya que tuve que realizar un curso de inglés.  
+
+Speaker 0: Ah, ok, listo.  De todas formas, muchísimas gracias por el interés en Ajaeriana.  Ya será en una próxima ocasión.  Hasta luego, que estés bien.  
+
+Speaker 1: Igualmente, hasta luego.  

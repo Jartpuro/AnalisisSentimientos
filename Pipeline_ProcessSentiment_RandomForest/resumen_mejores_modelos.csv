@@ -1,0 +1,4 @@
+﻿Enfoque,Mejor_F1_Score,n_estimators,max_depth,min_samples_split
+Sin Balanceo,0.4411845209464256,300,10,5
+Balanceo Manual,0.7148169684611577,200,20,5
+Balanceo Equitativo,0.710547135469736,300,10,2

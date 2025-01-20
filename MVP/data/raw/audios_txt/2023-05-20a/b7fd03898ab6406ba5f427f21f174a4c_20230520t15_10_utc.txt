@@ -1,0 +1,27 @@
+﻿Speaker 1: ¿Aló?  
+
+Speaker 0: Aló, oye, ¿hablo con la señorita María?  
+
+Speaker 1: Sí, con ella.  
+
+Speaker 0: ¿Habla con la señora de la Universidad Javeriana de Cali?  
+
+Speaker 0: ¿Cómo estás?
+
+Speaker 1: Bien, gracias.
+
+Speaker 0: María, el motivo de mi llamada es porque veo que estás interesada en un diplomado en accesibilidad y diseño universal en arquitectura y el urbanismo.  
+
+Speaker 0: Quería saber si ya conoces la información o si te puedo asesorar.  
+
+Speaker 1: Mira, sí, pero ahorita no es buen momento porque estoy en consulta médica.  
+
+Speaker 0: Ok, dale.  
+
+Speaker 1: Me puedes llamar el martes, te lo agradezco, martes en la tarde.  
+
+Speaker 0: Martes en la tarde, listo.  
+
+Speaker 1: Sí, por favor.  
+
+Speaker 0: Hasta luego, que estés muy bien.  

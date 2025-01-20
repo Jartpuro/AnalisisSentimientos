@@ -1,0 +1,29 @@
+﻿Speaker 1: Hola.  
+
+Speaker 0: Hola, buenas tardes.  Me comunico con Luz María Aguirre.  
+
+Speaker 1: Buenas tardes, sí, señora.  
+
+Speaker 0: ¿Cómo está?  Habla con Natalia de la Universidad Adriana de Cali.  ¿Cómo se encuentra?  
+
+Speaker 1: Bien, gracias.  ¿Y usted?  
+
+Speaker 0: Muy bien, gracias.  Luz María, el motivo de mi llamada es porque sabemos que estás interesada en el programa de finanzas.  Quería validar si tienes alguna duda acerca del programa.  
+
+Speaker 1: Sí, pues, si la verdad es que estaba interesada, pero no, ahorita mismo no me entiendo nada.  
+
+Speaker 0: Entiendo.  ¿De pronto podrías indicarme algún motivo para dejar en el reporte?  
+
+Speaker 1: No, la situación económica.  
+
+Speaker 0: Ok.  ¿Y ya revisaste los métodos de financiación que ofrece la universidad y el ICETEX?  
+
+Speaker 1: No, ICETEX no.  No, pero la verdad no me gustaría meterme con esos programas.  
+
+Speaker 0: Entiendo.  Bueno, Luz Mari, muchísimas gracias por la información, gracias por haber atendido mi llamada, que tengas una excelente tarde.  
+
+Speaker 1: Bueno, señora, muchas gracias igualmente.  
+
+Speaker 0: Hasta luego, que estés bien.  
+
+Speaker 1: Bueno, hasta luego, gracias.  

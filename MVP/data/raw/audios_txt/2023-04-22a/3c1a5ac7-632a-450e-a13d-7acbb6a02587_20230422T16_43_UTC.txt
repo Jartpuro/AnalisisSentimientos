@@ -1,0 +1,25 @@
+﻿Speaker 1: ¿Aló?  
+
+Speaker 0: Buenos días, me gusta ver con el señor Carlos.  
+
+Speaker 1: Sí, con él habla.  
+
+Speaker 0: Mucho gusto, mi nombre es Valentina Cernam, estoy comunicando de la Universidad Jaureana Cali.  ¿Cómo está?  
+
+Speaker 1: Bien, gracias.  
+
+Speaker 0: Bueno, el motivo de mi llamada es porque ha presentado interés por la maestría en salud pública y deseo brindarle información del programa.  ¿En el momento puede atender la llamada?  
+
+Speaker 1: No, en este momentico no.  Pero de igual manera ya no estoy interesado en el diplomado.  
+
+Speaker 0: ¿No es interesado en la maestría?  En la maestría, perdón.  
+
+Speaker 1: No, ya no.  
+
+Speaker 0: Perfecto.  Bueno, entonces en este momento pasa el reporte para no repetirle ese tipo de llamadas.  Muchas gracias por atender mi llamada.  
+
+Speaker 1: Vale, muchas gracias.  
+
+Speaker 0: Que tenga un buen día.  Hasta luego.  
+
+Speaker 1: Hasta luego.  

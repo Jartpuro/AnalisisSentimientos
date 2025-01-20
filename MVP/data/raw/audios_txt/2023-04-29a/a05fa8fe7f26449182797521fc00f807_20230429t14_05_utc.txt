@@ -1,0 +1,15 @@
+﻿Speaker 0: ¿Aló?  Muy buenos días, señor Gabriel, con María Ramírez de la Universidad Javeriana Cali.  ¿Cómo está?  Bien, gracias.  
+
+Speaker 1: ¿Y usted?  
+
+Speaker 0: Bien, gracias por preguntarme.  Usted me llama porque queremos validar si al fin se ha interesado en la maestría en ciencia de datos para el periodo dos mil veinticuatro.  
+
+Speaker 1: No, yo no estoy interesado.  
+
+Speaker 0: Ok, podemos saber el motivo, señor Gabriel, para hacer el reporte.  
+
+Speaker 1: Sí, es que yo inicié maestría en otra universidad.  
+
+Speaker 0: Ok, podemos saber el nombre de la universidad y el programa académico.  Sí, es maestría en ciencias de datos también, pero en ICESI.  Ah, ok, en la universidad ICESI.  Listo.  Bueno, igual le agradezco mucho por atender la llamada.  Recuerde que la Javeriana estamos para servirle.  Y si más adelante desea inscribirse a otro programa académico, por favor, no deje de comunicarse con nosotros.  Listo.  Listo, sí, claro.  Bueno, que esté muy bien.  Hasta luego.  
+
+Speaker 1: Hasta luego, gracias.  

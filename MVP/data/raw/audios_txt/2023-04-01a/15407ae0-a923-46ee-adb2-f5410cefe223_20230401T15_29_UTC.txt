@@ -1,0 +1,43 @@
+﻿Speaker 1: ¿Aló?  
+
+Speaker 0: Buen día, ¿tengo el gusto de hablar con María Juliana?  
+
+Speaker 1: Sí, señora.  
+
+Speaker 0: Hola, María Juliana, es un gusto saludarte.  Mi nombre es Estefany Sánchez de la Universidad Javeriana de Cali.  ¿Cómo va?  
+
+Speaker 1: Muy bien, muchas gracias.  
+
+Speaker 0: Me alegra, María Juliana.  El motivo de mis llamadas es porque presentas interés en la carrera de mercadeo.  Quiero saber cómo te fue en el evento de pasantías.  ¿Lograste asistir?  
+
+Speaker 1: No, no, no pude asistir.  
+
+Speaker 0: Ah, comprendo.  Bueno, igual nosotros vamos a programar una visita en el campus en el momento que tengas la disponibilidad, el profesional a cargo te puede llevar a conocer todas las instalaciones.  Ah, perfecto.  
+
+Speaker 0: ¿Ya terminaste el grado once?  No, aún no.  O sea, ¿presentaste IFEX o todavía no?  
+
+Speaker 1: Sí, ya presenté.  
+
+Speaker 0: Ah, ok, perfecto.  ¿Qué dudas tienes sobre la carrera de mercadeo?  
+
+Speaker 1: No, en este momento ninguna.  
+
+Speaker 0: Vale, ¿sabías que puedes inscribirte con las notas de noveno, décimo y once en este momento?  
+
+Speaker 1: Sí, sí, señora.  
+
+Speaker 0: ¿Estás interesada en seguir el proceso?  
+
+Speaker 1: Sí, yo lo más probable es que lo haga en cuanto den los resultados del ICSIS.  
+
+Speaker 0: Comprendo, ¿y ya has decidido que sea mercadeo totalmente?  
+
+Speaker 1: No, no, señora.  
+
+Speaker 0: ¿No estás segura?  Ajá.  Ah, bueno, listo.  Bueno, entonces no sé si deseas que te envíe información de las otras carreras que deseas validar.  Nosotros estaremos muy atentos a tu respuesta para poder brindarte todo el apoyo en tu proceso educativo.  
+
+Speaker 1: Perfecto, listo.  
+
+Speaker 0: Bueno, María Juliana, quedo muy pendiente.  Que tengas un excelente día.  Gracias a ti.  
+
+Speaker 1: Igual.  

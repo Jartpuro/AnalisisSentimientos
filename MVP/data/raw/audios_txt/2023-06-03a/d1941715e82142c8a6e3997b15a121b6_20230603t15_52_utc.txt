@@ -1,0 +1,17 @@
+﻿Speaker 1: Muy buenos días.  
+
+Speaker 0: Me comunico con el señor Jonathan Monge.  
+
+Speaker 1: Sí.  
+
+Speaker 0: Señor Jonathan, le habla Brigitte Osorio de la Universidad de Madrid, en la calle.  ¿Cómo está el día de hoy?  
+
+Speaker 1: Muy bien, gracias.  ¿Vos me podrías llamar el lunes?  Ahorita siento que estoy ocupado.  
+
+Speaker 2: Bueno, señor, ¿en qué horario le puedo regresar la llamada?  
+
+Speaker 1: Durante la mañana, puede ser.  
+
+Speaker 2: Bueno, yo le vuelvo a llamar.  Que esté muy bien.  
+
+Speaker 1: Gracias.  

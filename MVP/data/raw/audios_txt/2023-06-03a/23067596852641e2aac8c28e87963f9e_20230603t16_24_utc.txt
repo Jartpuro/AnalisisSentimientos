@@ -1,0 +1,17 @@
+﻿Speaker 0: Aló, un día hablo con la señorita Carol.  
+
+Speaker 1: Buenas, ¿con quién hablo?  
+
+Speaker 0: Hablas con Luis Carlos de la Universidad Jaeriana de Cali.  ¿Cómo estás?  Hola, mira, ahora estoy un poquito ocupada.  
+
+Speaker 1: ¿Te puedo llamar después?  
+
+Speaker 0: Te puedo llamar el lunes.  ¿A qué horas?  
+
+Speaker 1: A las tres de la tarde.  
+
+Speaker 0: Ok.  Después de las tres.  
+
+Speaker 1: Después de las tres, listo.  Bueno, pues hasta luego.  Que estés bien.  
+
+Speaker 0: Gracias.  

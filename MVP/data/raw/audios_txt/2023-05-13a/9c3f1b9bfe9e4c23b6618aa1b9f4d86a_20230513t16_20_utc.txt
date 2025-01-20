@@ -1,0 +1,17 @@
+﻿Speaker 1: ¿Cómo estás?  
+
+Speaker 0: Hola, ¿me escucha?  
+
+Speaker 2: ¿Aló?  Hola, ¿me escucha?  
+
+Speaker 0: Hola.  
+
+Speaker 2: ¿Ahí se escucha mejor?  
+
+Speaker 1: ¿Aló?  
+
+Speaker 2: Hola.  ¿Se escucha mejor?  
+
+Speaker 0: Ya le marco de.  nuevo.  
+
+Speaker 1: Vale, gracias.  

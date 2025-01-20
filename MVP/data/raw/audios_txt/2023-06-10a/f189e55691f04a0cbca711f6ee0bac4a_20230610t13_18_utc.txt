@@ -1,0 +1,11 @@
+﻿Speaker 1: Hola, buenos días.  
+
+Speaker 0: Buenos días, me comunico con Carolina Barco.  Sí.  Le habla Angie Valanta de la Universidad Javeriara de Cali.  ¿Cómo está?  
+
+Speaker 1: Muy bien, gracias.  
+
+Speaker 0: Me alegra muchísimo.  Señorita Carolina, nos estamos comunicando por su interés en el seminario en Big Data con Power BI.  Sí.  ¿Te encuentras interesada en este seminario?  Sí.  
+
+Speaker 1: ¿Cuándo empieza?  
+
+Speaker 0: Iniciaría el veintidós de junio.  

@@ -1,0 +1,15 @@
+﻿Speaker 1: Hola.  Muy buenos días.  Me conozco con el señor Juan.  Sí, con él.  
+
+Speaker 0: Señor Juan, le habla Brigitte Osorio de la Universidad Adriana Cali.  ¿Cómo se encuentra el día de hoy?  
+
+Speaker 1: Muy bien.  
+
+Speaker 0: Me alegra mucho, señor Juan.  El motivo de mi llamada es porque usted realizó una preinscripción.  En el seminario de presupuestos y programación de proyectos de construcción, quería saber si usted ya ha podido revisar toda la información y si podemos contar con su participación.  
+
+Speaker 1: Sí, ya revisé la información, pero no, en este momento no lo puedo hacer porque estoy haciendo una maestría y se me cruzan los horarios.  
+
+Speaker 0: Ah, ya le entiendo, señor Juan.  Bueno, de todos modos, cuando aperturamos el próximo, entonces lo tendremos en cuenta.  
+
+Speaker 1: Vale, perfecto.  Muchas gracias.  
+
+Speaker 0: Que se, muy bien.  Hasta luego.  

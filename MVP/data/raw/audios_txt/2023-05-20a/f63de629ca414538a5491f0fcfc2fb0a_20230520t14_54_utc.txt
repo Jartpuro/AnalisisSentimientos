@@ -1,0 +1,23 @@
+﻿Speaker 0: Hola, buen día.  Hablo con la señorita Fernanda.  
+
+Speaker 1: Sí, ¿con quién hablas?  
+
+Speaker 0: Hablas con Liz Carlos, de la Universidad Adriana de Cali.  ¿Cómo estás?  
+
+Speaker 1: Bien.  
+
+Speaker 0: Bueno, me alegra, señorita Fernanda.  El motivo de mi llamada es porque veo que estás interesada en un diplomado en accesibilidad y diseño universal en la arquitectura y el urbanismo.  Quería saber si ya conoces la información o en qué te puedo asesorar.  
+
+Speaker 1: No, ya conozco la información.  Muchas gracias.  
+
+Speaker 0: Ok, sabiendo la información, ¿quisieras participar del diplomado?  
+
+Speaker 1: No, en este momento no.  
+
+Speaker 0: ¿Me podrías decir el motivo de por qué no puedo poner en la base de datos, por favor?  
+
+Speaker 1: No cumple con lo que necesito.  
+
+Speaker 0: Ok, bueno pues, hasta luego, que estés muy bien feliz el resto de día.  
+
+Speaker 1: Igualmente.  

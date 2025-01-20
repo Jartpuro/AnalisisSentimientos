@@ -1,0 +1,27 @@
+﻿Speaker 1: Aló.  
+
+Speaker 0: Buenos días.  
+
+Speaker 1: Buenos días.  
+
+Speaker 0: Me comunico con David Romero.  
+
+Speaker 1: Con él.  
+
+Speaker 0: Le habla Angie de la Universidad Javeriana de Cali.  ¿Cómo se encuentra?  
+
+Speaker 1: Bien, Angie, ¿usted qué tal?  
+
+Speaker 0: Muy bien, gracias por preguntar.  Señor David, nos comunicamos por su interés en el seminario en Business Análisis de Big Data con Power BI.  
+
+Speaker 1: Sí, estaba esperando que la empresa me lo aprobara, pero no me lo aprobaron definitivamente.  
+
+Speaker 0: Ah, comprendo.  Es decir que en ese caso no puedes tomar el seminario o deseas tomarlo pronto de tu parte.  
+
+Speaker 1: No, no puedo tomar el seminario.  
+
+Speaker 0: Ah, bueno, comprendo.  Bueno, señor David, dejaré entonces la anotación en el sistema.  Gracias por la información.  Que esté muy bien.  
+
+Speaker 1: No, usted.  Ok, bien, hasta luego.  
+
+Speaker 0: Bien, hasta luego.  

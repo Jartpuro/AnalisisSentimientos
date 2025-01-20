@@ -1,0 +1,17 @@
+﻿Speaker 1: ¿Aló?  
+
+Speaker 0: Hola, buenos días, ¿aló con Sergio?  
+
+Speaker 1: Eh, no señor, él no está.  
+
+Speaker 0: Ah, ok, llamo, eh, desde la Javeriana Cali, ¿tú de pronto sabes si todavía sigue interesado en el programa de derecho?  
+
+Speaker 1: Ah, no, la verdad no sé.  
+
+Speaker 0: Entiendo, entonces, eh, ¿te parece bien si lo volvemos a llamar más tarde o el lunes?  
+
+Speaker 1: No, más tarde...  
+
+Speaker 0: Listo, dale.  Gracias, hasta luego.  Que tengas buen día.  
+
+Speaker 1: Gracias.  

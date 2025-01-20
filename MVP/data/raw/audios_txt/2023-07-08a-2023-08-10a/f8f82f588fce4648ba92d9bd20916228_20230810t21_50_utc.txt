@@ -1,0 +1,29 @@
+﻿Speaker 1: Hola, buenas tardes.  Hablo con Tiffany Brown.  
+
+Speaker 0: Hola, sí.  Hablas con Natalia de la Universidad Adriana de Cali.  ¿Cómo estás?  
+
+Speaker 2: Bien, gracias.  
+
+Speaker 0: Bueno, Tiffany, el motivo de mi llamada es porque sabemos que estás interesada en el programa de negocios internacionales.  Quería validar si tienes alguna duda acerca del programa.  
+
+Speaker 2: No, no, señora.  Muchas gracias.  
+
+Speaker 0: ¿Aún estás interesada en inscribirte?  
+
+Speaker 2: No, no, señora.  
+
+Speaker 0: ¿De pronto podrías indicarme algún motivo para dejar en el reporte?  
+
+Speaker 2: Ya conseguí otra universidad.  
+
+Speaker 1: Ah, ok.  ¿Podrías darme el nombre de la universidad?  
+
+Speaker 2: Es por fuera del país.  
+
+Speaker 1: Fuera del país.  Ok.  Bueno, Tiffany, muchísimas gracias por la información.  Gracias por haber atendido mi llamada.  Que tengas un excelente día.  
+
+Speaker 2: Dale, gracias.  
+
+Speaker 1: Que estés bien.  Hasta luego.  
+
+Speaker 2: Hasta luego.  

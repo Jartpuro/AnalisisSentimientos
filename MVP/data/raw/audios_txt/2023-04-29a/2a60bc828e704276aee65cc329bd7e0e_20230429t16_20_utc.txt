@@ -1,0 +1,15 @@
+﻿Speaker 1: Aló.  
+
+Speaker 0: Aló, buenas tardes, me comunica por favor con Juan.  
+
+Speaker 1: Sí, con él, ¿por qué?  
+
+Speaker 0: Lo llamo de la Universidad Javeriana de Cali, ¿en qué horario me puedo comunicar con él?  
+
+Speaker 1: Dígame.  
+
+Speaker 0: ¿En qué horario me puedo comunicar con él?  
+
+Speaker 1: Él me comunica que no se ha interesado con ninguno de sus servicios.  
+
+Speaker 0: Ah, bueno, saben.  Bueno, muchas gracias.  Hasta luego.  

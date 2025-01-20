@@ -1,0 +1,21 @@
+﻿Speaker 0: ¿Aló?  
+
+Speaker 1: Aló, muy buenos días, por favor.  ¿Julian Liscano?  
+
+Speaker 0: Sí, señora, con él.  
+
+Speaker 1: Es Balanta de la Universidad Javeriana de Cali.  ¿Cómo se encuentra el día de hoy?  
+
+Speaker 0: Muy bien, gracias a Dios.  
+
+Speaker 1: Me alegra mucho.  Maté mi llamada, Julián, es porque queremos validar tu interés en nuestro programa de medicina.  Queremos saber si tienes alguna duda, alguna inquietud sobre el programa y cómo podríamos ayudarte.  
+
+Speaker 0: No, pues en el momento no se interesa en estudiarme allá.  
+
+Speaker 1: Comprendo.  ¿Por alguna razón en específico?  
+
+Speaker 0: Pues sí, ya que me aceptaron en otra universidad.  
+
+Speaker 1: Comprendo.  Bueno, señor, voy a dejar el registro en el sistema.  Le agradezco por haber atendido mi llamada y espero que esté muy bien.  
+
+Speaker 0: Bueno, hasta luego.  Muchas gracias.  Hasta luego.  

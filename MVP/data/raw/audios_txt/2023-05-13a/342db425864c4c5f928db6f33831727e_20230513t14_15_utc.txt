@@ -1,0 +1,27 @@
+﻿Speaker 0: Muy buenos días.  Me comunico con MS-Siete Serviche.
+
+Speaker 1: De parte.
+
+Speaker 0: Habla Cristian Lozano de la Universidad Javeriana de Cali.  ¿Cómo se encuentra el día de hoy?
+
+Speaker 1: Hola, muy bien.
+
+Speaker 0: ¿Con quién tengo el gusto?  Discúlpame.
+
+Speaker 1: Con Mauricio. 
+
+Speaker 0: Señor Mauricio, el motivo de mi llamada es porque han mostrado interés en nuestro seminario en programación de macros en Excel.  Quería consultarte si tienen alguna duda, alguna inquietud sobre nuestro programa. 
+
+Speaker 1: El valor. 
+
+Speaker 0: Vamos a manejar dos valores para el programa.  El valor total del programa es de seiscientos cincuenta mil pesos, pero hasta el catorce de junio vamos a manejar valor de descuento por pronto pago.  Este valor es de quinientos ochenta y cinco mil novecientos sesenta y un pesos y las clases son de manera presencial en las instalaciones de la universidad.
+
+Speaker 1: Ok, dale. 
+
+Speaker 0:  Yo te compartí una información hace unos días, no sé si de pronto la pudiste validar, allí vas a encontrar información de total del programa, tanto el contenido y demás. 
+
+Speaker 1: Ok, dale, yo revisaré esto.
+
+Speaker 0: Bueno, señor Mauricio, muchas gracias por atender mi llamada.  Un feliz día. 
+
+Speaker 1: Gracias.  Hasta luego, que esté muy bien.  

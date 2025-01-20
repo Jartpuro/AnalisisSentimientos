@@ -1,0 +1,33 @@
+﻿Speaker 1: Hola, López.  
+
+Speaker 0: Hola, muy buenos días.  Por favor, ¿se llama Sebastián Vargas?  
+
+Speaker 1: Sí, señora.  
+
+Speaker 0: Habla con Juliet Balanta de la Universidad Jaureana de Cali.  ¿Cómo se encuentra el día de hoy?  
+
+Speaker 1: Muy bien, ¿y tú?  
+
+Speaker 0: Me alegra mucho.  Muy bien, gracias por preguntar.  El motivo de mi llamada es porque queremos validar su interés en nuestro programa de ingeniería mecánica.  Queremos saber si tiene alguna duda, alguna inquietud y cómo podríamos ayudarle.  
+
+Speaker 1: Es que algo me incuestó, ¿verdad?  
+
+Speaker 0: Disculpe, se le escuchó un poco entrecortado.  ¿Me puede indicar nuevamente?  
+
+Speaker 1: ¿Tiene algún costo, verdad?  
+
+Speaker 0: Sí, señor.  En estos momentos, el valor del semestre para Ingeniería Mecánica se encuentra en diez millones quinientos seis mil pesos.  
+
+Speaker 1: Ah, no, pues es que la verdad es que no está muy adelante.  
+
+Speaker 0: Comprendo.  Nosotros en estos momentos contamos con un programa de becas que está basado principalmente en los resultados obtenidos por los estudiantes en las pruebas AVERONCE.  ¿Sería interesante que te rindas la información de la oferta de becas que contamos en estos momentos?  
+
+Speaker 1: Pues, no, porque yo ya estoy con dos becas aquí.  
+
+Speaker 0: Comprendo.  ¿Y sería interesante presentar nuevamente la prueba SABER-ONCE para validar la participación en el programa?  
+
+Speaker 1: Sí.  Sí, pero porque pues no, ahí no, ahí no, ahí.  cuando yo me escribí que esto, no pensé que fuera a ser así tan, bueno.  
+
+Speaker 0: Comprendo.  Mire señor, voy a dejar el registro del sistema, le agradezco por haber atendido mi llamada y espero que esté muy bien.  Gracias.  Hasta luego.  
+
+Speaker 1: Hasta luego.  

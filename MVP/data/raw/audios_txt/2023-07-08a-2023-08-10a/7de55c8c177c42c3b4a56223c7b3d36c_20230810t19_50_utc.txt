@@ -1,0 +1,11 @@
+﻿Speaker 1: Hola, buenas tardes.  
+
+Speaker 0: Muy buenas tardes, me comunico con Angie Lorena.  
+
+Speaker 1: ¿Con quién hablo?  ¿Con ella?  
+
+Speaker 0: Te habla Brigitte Osorio, te estoy llamando a la Universidad de Puerto Rico, ¿cómo te encuentras el día de hoy?  
+
+Speaker 1: Bien, pero estoy en un banco, ¿será que me puedes ayudar en la llamada?  
+
+Speaker 0: Ok, ya te devuelvo la llamada.  Bueno, hasta luego.  

@@ -1,0 +1,19 @@
+﻿Speaker 1: Aló.  
+
+Speaker 0: Aló, buen día, ¿habló con la señorita Marcela?  
+
+Speaker 1: Sí, con ella.  
+
+Speaker 0: ¿Hablas con Luis Carlos de la Universidad Javeriana de Cali?  ¿Cómo estás?  
+
+Speaker 1: Ah, bien, muchas gracias.  
+
+Speaker 0: Bueno, me alegra, señorita Marcela.  El motivo de mi llamada es porque estás interesada en un diploma de Derecho Inmobiliario.  Ya te había enviado una información, quería saber qué decisión tomaste.  
+
+Speaker 1: No, yo ya no estoy interesada, te agradezco mucho.  
+
+Speaker 0: Ok, ¿tú me puedes decir el motivo del por qué no?  para ponerlo en la base de datos, por favor?  
+
+Speaker 1: No, por ahora no me interesa, gracias.  
+
+Speaker 0: Ok, listo.  Con mucho gusto.  Hasta luego.  Que estés bien.  

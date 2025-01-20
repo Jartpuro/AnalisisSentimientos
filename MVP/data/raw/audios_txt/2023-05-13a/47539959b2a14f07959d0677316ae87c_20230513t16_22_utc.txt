@@ -1,0 +1,15 @@
+﻿Speaker 1: Hola.  
+
+Speaker 0: Hola, un buen día.  Hablo con el señor Roberto.  
+
+Speaker 1: Sí.  
+
+Speaker 0: Hablas con Luis Carlos de la Universidad Javeriana de Cali.  
+
+Speaker 0: ¿Cómo estás?  
+
+Speaker 1: Ahorita tengo una emergencia.  ¿Me puedo volver a llamar, por favor?  
+
+Speaker 0: Si quieres, yo te dejo una información.  
+
+Speaker 1: Bueno, pues hasta luego.  
